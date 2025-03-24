@@ -2,7 +2,7 @@
 Use YOLOv5 and the Flask framework to implement a web-based deployment that allows users to upload images and videos online for detection, as well as perform real-time camera detection.
 # Usage
 
-1. Set up the YOLOv5 runtime environment on your own.<br/>
+1. Set up the YOLOv5 runtime environment.<br/>
 2. Install the dependencies:`pip install -requirements.txt`<br/>
 3. `python app.py`
 # Vedio
